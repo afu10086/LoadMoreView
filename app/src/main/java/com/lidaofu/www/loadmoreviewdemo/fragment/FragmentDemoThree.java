@@ -55,7 +55,7 @@ public class FragmentDemoThree extends Fragment {
 
     public class TabFragmentAdapter extends CacheFragmentPagerAdapter {
 
-        private String[] titles = {"项目详情", "产品介绍", "购买记录"};
+        private String[] titles = {"项目详情", "产品介绍", "评价"};
 
         public TabFragmentAdapter(FragmentManager fm) {
             super(fm);

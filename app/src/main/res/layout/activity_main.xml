@@ -14,7 +14,7 @@
         android:gravity="center"
         android:textColor="#ffffff"
         android:textSize="18sp"
-        android:text="标题" />
+        android:text="项目详情" />
 
 
 

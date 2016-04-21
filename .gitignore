@@ -1,0 +1,12 @@
+/app/build
+/loadmoreview/build
+/gradle
+/.idea
+/.gradle
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
